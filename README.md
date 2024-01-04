@@ -50,7 +50,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] :coffee: Break
 - [ ] Action policies
 - [ ] Running your workflows.
-- [ ] Sharing workflows
+- [ ] Sharing workflows.
 - [ ] 🔨 Hands-on: [Reusable workflows](hol/04-Reusable-workflows.md)
 - [ ] Best practices and security.
 
